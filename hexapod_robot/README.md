@@ -74,7 +74,7 @@ Movement Logic:
 * At any time, one tripod moves while the other supports the body
   
 * This alternating motion creates stable walking
-* 
+  
 
 Control Flow:
 
