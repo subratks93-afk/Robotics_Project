@@ -1,2 +1,2 @@
 # Robotics_Project
-Collection of robotics projects involving robot control, hardware integration, and real-time applications.
+Collection of robotics projects involving embedded systems, motion control, and hardware integration.
