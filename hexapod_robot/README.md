@@ -60,9 +60,6 @@ The system integrates an external servo controller, wireless communication, and 
 * Battery: LiPo Battery (7.4V – 12V, ≥ 6000mAh)
   
 
-
-
-
 ⚙️ Working Principle
 
 
@@ -112,7 +109,7 @@ hexapod_robot/
 5. Upload code using Arduino IDE
 6. Control robot via Bluetooth commands
 
----
+
 
 🔮 Future Improvements
 
