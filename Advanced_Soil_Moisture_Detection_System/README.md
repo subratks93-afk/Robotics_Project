@@ -1,5 +1,5 @@
 
-🤖 Advanced Soil Moisture Detection & Irrigation Robot (Arduino Uno)
+🤖 Advanced Soil Moisture Detection System
 
 An autonomous robotic system that monitors soil moisture using a digital soil sensor and responds by controlling movement and displaying status on an 8×8 LED dot matrix. The system uses an Arduino Uno to process sensor input and control motors via an L293D driver.
 
