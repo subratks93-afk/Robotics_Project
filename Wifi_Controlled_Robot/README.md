@@ -1,5 +1,5 @@
 
-🌐 WiFi Controlled Robot (NodeMCU)
+🌐 WiFi Controlled Robot
 
 A wireless robotic system controlled over WiFi using a NodeMCU (ESP8266) microcontroller. The robot can be operated remotely through a web interface or mobile application, allowing real-time control without the need for Bluetooth or physical connections.
 
