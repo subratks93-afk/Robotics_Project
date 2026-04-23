@@ -12,7 +12,7 @@ The robot moves forward continuously.
 
 🚧 If an obstacle is detected (distance < 15 cm):
 
-The robot stops and performs environmental scanning:
+The robot stops and performs environmental scanning
 
 Rotates the sensor to the left (150°) and measures distance
 
