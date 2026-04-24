@@ -43,7 +43,7 @@ Home automation prototypes
 Basic surveillance robots
 ## 🎥 Demo Video
 
-[▶️ Watch Demo](https://drive.google.com/file/d/1KFVGRx64_uLVIX-BZxv1ChzG4BX-ayVB/view?usp=drive_link)
+[▶️ Watch Demo](https://drive.google.com/file/d/1jwjrv6cvHja_5gQnQpPOpjdBBB-GUd3k/view?usp=drive_link)
 
 🔮 Future Improvements
 
